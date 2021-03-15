@@ -142,6 +142,9 @@ take_walk(dog) # 개가 걷는다.
 
 ### 출처
 https://alstn2468.github.io/Javascript/2020-05-11-Implicit_Explict_Nominal_Structuring_DuckTyping/
+
 https://corock.tistory.com/459
+
 https://typescript-kr.github.io/pages/type-compatibility.html
+
 모던 자바스크립트Deep Dive

@@ -64,3 +64,4 @@
 | 21.04.01 |  그루밍  |[컬렉션과 생성기](https://github.com/yjs03057/33-js-concepts#24-%EC%BB%AC%EB%A0%89%EC%85%98%EA%B3%BC-%EC%83%9D%EC%84%B1%EA%B8%B0)  |      |
 | 21.04.01 |   브콜   |[Promises](https://github.com/yjs03057/33-js-concepts#25-promises), [async/await](https://github.com/yjs03057/33-js-concepts#26-asyncawait)|      |
 | 21.04.05 |   티케    |[자료 구조](https://github.com/yjs03057/33-js-concepts#27-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0), [함수 성능과 빅 오(Big-O) 표기법](https://github.com/yjs03057/33-js-concepts#28-%ED%95%A8%EC%88%98-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EB%B9%85-%EC%98%A4big-o-%ED%91%9C%EA%B8%B0%EB%B2%95) |      |
+| 21.04.05 |   주모    |[상속, 다형성, 코드의 재사용성](https://github.com/yjs03057/33-js-concepts#30-%EC%83%81%EC%86%8D-%EB%8B%A4%ED%98%95%EC%84%B1-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1)|      |

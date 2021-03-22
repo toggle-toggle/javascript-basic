@@ -60,7 +60,6 @@
 | 21.03.25 |   티케    |[map, reduce, filter](https://github.com/yjs03057/33-js-concepts#19-map-reduce-filter), [순수함수, 부수효과, 상태변이](https://github.com/yjs03057/33-js-concepts#20-%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98-%EB%B6%80%EC%88%98%ED%9A%A8%EA%B3%BC-%EC%83%81%ED%83%9C%EB%B3%80%EC%9D%B4) |      |
 | 21.03.25 |  신세한탄  |[클로저(Closures)](https://github.com/yjs03057/33-js-concepts#21-%ED%81%B4%EB%A1%9C%EC%A0%80closures)  |      |
 | 21.03.29 |   엘라   |[고차함수](https://github.com/yjs03057/33-js-concepts#22-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98) |      |
-| 21.03.29 |   주모   |[재귀](https://github.com/yjs03057/33-js-concepts#23-%EC%9E%AC%EA%B7%80) |      |
 | 21.04.01 |  그루밍  |[컬렉션과 생성기](https://github.com/yjs03057/33-js-concepts#24-%EC%BB%AC%EB%A0%89%EC%85%98%EA%B3%BC-%EC%83%9D%EC%84%B1%EA%B8%B0)  |      |
 | 21.04.01 |   브콜   |[Promises](https://github.com/yjs03057/33-js-concepts#25-promises), [async/await](https://github.com/yjs03057/33-js-concepts#26-asyncawait)|      |
 | 21.04.05 |   티케    |[자료 구조](https://github.com/yjs03057/33-js-concepts#27-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0), [함수 성능과 빅 오(Big-O) 표기법](https://github.com/yjs03057/33-js-concepts#28-%ED%95%A8%EC%88%98-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EB%B9%85-%EC%98%A4big-o-%ED%91%9C%EA%B8%B0%EB%B2%95) |      |

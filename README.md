@@ -34,6 +34,27 @@
 - 테코톡 주제, 지금까지 배웠던 내용들에 대한 Deep한 토론
 - 각 주차별 토론에 대해 기록한다.
 
+### Schedule 
+- 매주 `일`/`월` `22:00` 중 택 1
+- 시작: `4.18(일)`: `22:00`
+  - 주차 별 취합할 사람 랜덤으로 뽑아서 정리하기
+
+- 매주 수요일 23:59 까지 질문을 [Issue](https://github.com/toggle-toggle/javascript-basic/issues)로 정리해 [프로젝트](https://github.com/toggle-toggle/javascript-basic/projects/1)에 올려놓는다.
+- ❌ 어기게 되면 커피 쏘기☕️
+
+
+
+### Rules
+- 6명이 모두 질문을 준비해온다.
+- 당일에 사다리타기를 통해 2명씩 묶는다.
+- 2명씩 묶인 사람들이 서로의 질문에 대해 대답한다. 
+- 나머지 4명은 경청한다. (잘못된 부분이나 추가 질문이 있다면 끝나고 물어본다.)
+- 모두가 질문에 대해 답변을 하고나면, 돌아가면서 회고한다.
+
+- 스터디가 끝난 후, 48시간 이내에 질문에 대한 답변과 피드백을 [Issue](https://github.com/toggle-toggle/javascript-basic/issues)에 정리한 후에 취합할 사람에게 전달
+- ❌ 어기게 되면 커피 쏘기☕️
+
+
 ## 1. Table of Contents
 
 ### 테코톡

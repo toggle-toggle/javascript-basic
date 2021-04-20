@@ -57,7 +57,7 @@
 ## 1. Table of Contents
 
 ### 스터디
-1. [21.04.19] DOM & BOM (주모가 링크 달아주세욤)
+1. [[21.04.18] DOM & BOM](https://github.com/toggle-toggle/javascript-basic/blob/master/Level%202/%5B0418%5D_DOM_&_BOM.md)
 
 ### 테코톡
 

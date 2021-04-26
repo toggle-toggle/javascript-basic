@@ -61,13 +61,13 @@
 
 ### 테코톡
 
-1. DOM & BOM
-2. This
-3. Prototype
-4. Event Loop
-5. Scope & Closure
-6. Callback
-7. SPA
+1. [주모] DOM & BOM
+2. [그루밍] This
+3. [신세한탄] Prototype
+4. [브콜] Event Loop
+5. [엘라] Scope & Closure
+6. [티케] Callback
+7. [주모] SPA
 
 ### 배웠던 내용
 
